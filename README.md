@@ -6,6 +6,7 @@ I'm an apprentice in software development (Fachinfomatiker für Anwendungsentwic
 Here's a bit about me:
 - 📖 I'm currently learning about:
   - low level languages like C, Rust and Zig (well, in reality I'm mainly interested in Rust)
+  - relearning some UI-developent with iced in Rust and Elm in the web
 - 📕 In my free time i like to read Sci-Fi and Fantasy. I'm currently reading 
 [The Brilliance Saga by Marcus Sakey](https://www.goodreads.com/series/124491-brilliance-saga)
 - ⌨ Languages I personally use: Go, Rust, some Typescript with Svelte, SQL
