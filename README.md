@@ -1,7 +1,7 @@
 ### Hi there 👋
 😄 Pronouns: He/Him 
 
-I'm an apprentice in software development (Fachinfomatiker für Anwendungsentwicklung) from northern germany 🇩🇪 🇪🇺
+I'm a backend developer from northern germany 🇩🇪 🇪🇺
 
 Here's a bit about me:
 - 📖 I'm currently learning about:
