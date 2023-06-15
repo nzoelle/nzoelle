@@ -8,7 +8,8 @@ Here's a bit about me:
   - Rust
   - relearning some UI-developent with Rust (yew/leptos), Elm and Svelte
 - 📕 In my free time i like to read Sci-Fi and Fantasy.
-- ⌨ Languages I personally use: Go, Rust, some Typescript with Svelte, SQL
+- ⌨ Languages I personally use: Go, Rust, some Typescript with Svelte, SQL, bits of Bash
+  - these I've used at some point in the past: ObjectPascal, PHP, Prolog, Java, Python, JavaScript, 
 - 📧 You can reach me here: [norzoel22@gmail.com](mailto:norzoel22@gmail.com)
  
 <a href="https://www.codewars.com/users/AnonymousPangolin" target="_blank">![codewars-badge](https://www.codewars.com/users/AnonymousPangolin/badges/large)</a>
